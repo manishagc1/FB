@@ -1,0 +1,20 @@
+{
+  "node": {
+    "4055bed6b9312423bf55e5c88e003a647dcd09580a": {
+      "workers": {
+        "app/(auth)/login/page": {
+          "moduleId": "[project]/FB/.next-internal/server/app/(auth)/login/page/actions.js { ACTIONS_MODULE0 => \"[project]/FB/lib/actions/auth-actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "handleLogin",
+          "filename": "FB/lib/actions/auth-actions.ts"
+        }
+      },
+      "layer": {
+        "app/(auth)/login/page": "action-browser"
+      },
+      "exportedName": "handleLogin",
+      "filename": "FB/lib/actions/auth-actions.ts"
+    }
+  },
+  "edge": {}
+}

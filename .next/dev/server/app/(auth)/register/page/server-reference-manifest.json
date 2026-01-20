@@ -1,0 +1,20 @@
+{
+  "node": {
+    "403d7b892f904f1242651719817e941908616c845e": {
+      "workers": {
+        "app/(auth)/register/page": {
+          "moduleId": "[project]/FB/.next-internal/server/app/(auth)/register/page/actions.js { ACTIONS_MODULE0 => \"[project]/FB/lib/actions/auth-actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "handleRegister",
+          "filename": "FB/lib/actions/auth-actions.ts"
+        }
+      },
+      "layer": {
+        "app/(auth)/register/page": "action-browser"
+      },
+      "exportedName": "handleRegister",
+      "filename": "FB/lib/actions/auth-actions.ts"
+    }
+  },
+  "edge": {}
+}
