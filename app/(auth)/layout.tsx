@@ -9,7 +9,7 @@ export default function AuthLayout({
     <main className="relative min-h-screen w-full overflow-hidden bg-cyan-500">
       {/* Optional Background Image */}
       <Image
-        src="/images/bg.png"
+        src="public/images/airplane.jpg"
         alt="background"
         fill
         priority
@@ -25,7 +25,7 @@ export default function AuthLayout({
           {/* Logo */}
           <div className="flex justify-center mb-6">
             <Image
-              src="/images/main_logo_.png"
+              src="/public/images/airplane.jpg"
               alt="Flight Buddy Logo"
               width={120}
               height={120}
